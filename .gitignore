@@ -1,1 +1,5 @@
 .python-versions
+1_image_classification/weights_*
+/*/data
+/*/weights
+/*/.ipynb_checkpoints
